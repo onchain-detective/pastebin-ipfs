@@ -8,14 +8,14 @@ require (
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/gofiber/fiber/v2 v2.26.0
 	github.com/google/uuid v1.3.0
-	github.com/ipfs/go-cid v0.1.0
+	github.com/ipfs/go-cid v0.3.2
 	github.com/ipfs/go-ipfs-api v0.3.0
-	github.com/ipfs/go-ipfs-files v0.1.1
-	github.com/multiformats/go-multihash v0.1.0
+	github.com/ipfs/go-ipfs-files v0.3.0
+	github.com/multiformats/go-multihash v0.2.1
 	github.com/spf13/cast v1.4.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.1
 	github.com/thoas/go-funk v0.9.1
 	github.com/tidwall/pretty v1.2.0
-	go.uber.org/atomic v1.9.0
-	go.uber.org/zap v1.21.0
+	go.uber.org/atomic v1.10.0
+	go.uber.org/zap v1.23.0
 )
